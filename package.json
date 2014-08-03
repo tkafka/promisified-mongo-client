@@ -1,0 +1,14 @@
+{
+	"name": "promisified-mongo-client",
+	"description": "MongoDB MongoClient promisified with Bluebird and patched async cursor operations.",
+	"email": "tk+promisified-mongo-client@tomaskafka.com",
+	"version": "0.0.2",
+	"private": false,
+	"main": "./promisifiedMongoClient.js",
+	"dependencies": {
+		"bluebird": "^2.2.2",
+		"mongodb": "^1.4.8"
+	},
+	"devDependencies": {
+	}
+}
