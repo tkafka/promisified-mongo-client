@@ -2,7 +2,8 @@
 	"name": "promisified-mongo-client",
 	"description": "MongoDB MongoClient promisified with Bluebird and patched async cursor operations.",
 	"email": "tk+promisified-mongo-client@tomaskafka.com",
-	"version": "0.0.2",
+	"repository": "https://github.com/tkafka/promisified-mongo-client",
+	"version": "0.0.3",
 	"private": false,
 	"main": "./promisifiedMongoClient.js",
 	"dependencies": {
