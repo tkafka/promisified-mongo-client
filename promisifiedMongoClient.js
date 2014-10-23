@@ -15,4 +15,4 @@ Collection.prototype.find = function() {
 	return cursor;
 };
 
-module.exports = MongoClient;
+module.exports = mongodb;
